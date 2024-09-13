@@ -1,4 +1,5 @@
 line1
+:q
 line eddited
 line3
 line4
